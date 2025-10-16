@@ -13,4 +13,5 @@ This Excel project is a comprehensive business intelligence solution designed to
 - Used Excel Functions e.g XLOOKUP,UNIQUE etc.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 ## Dashboard
-https://1drv.ms/i/c/dc5d1b58c06044b5/Ec0sjaoBcrdLsReU0t8Zu1oBv_RVL_NumczLodWqx7aY6w?e=C9WUdj
+<img width="1920" height="1008" alt="My Project - Excel 10_15_2025 1_41_35 PM" src="https://github.com/user-attachments/assets/8b13f5ee-0c4f-4743-b107-bd4c6e1c436b" />
+
