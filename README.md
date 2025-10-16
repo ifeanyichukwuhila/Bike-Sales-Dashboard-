@@ -1,0 +1,2 @@
+# Bike-Sales-Dashboard-
+This Excel project is a comprehensive business intelligence solution designed to analyze bike sales data and customer purchasing behavior. It transforms raw transactional data into an interactive, visual dashboard that allows stakeholders to explore customer patterns, identify market opportunities, and make data-driven business decisions.
